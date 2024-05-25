@@ -6,12 +6,7 @@ A very simple script to export the list of movies entered in the Letterboxd diar
 
 ## Badges
 
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Kekko01/Letterboxd-to-.TXT)
-
-![GitHub forks](https://img.shields.io/github/forks/Kekko01/Letterboxd-to-.TXT)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Kekko01/Letterboxd-to-.TXT)
-
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Kekko01/Letterboxd-to-.TXT)![GitHub forks](https://img.shields.io/github/forks/Kekko01/Letterboxd-to-.TXT)![GitHub Repo stars](https://img.shields.io/github/stars/Kekko01/Letterboxd-to-.TXT)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## How to do
